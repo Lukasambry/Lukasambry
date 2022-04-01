@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukasambry
-- 👀 I’m interested in dev
-- 🌱 I’m currently learning Js, Laravel, Svelte and Typescript
+- 👀 I’m interested in finding the way to close vim
+- 🌱 I’m currently learning Js, Laravel, Php and Typescript
 - 💞️ I’m looking to collaborate on GitHub, GitLab
 - 📫 How to reach me ...
 
